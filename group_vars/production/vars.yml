@@ -1,0 +1,9 @@
+Sts.Role: arn:aws:iam::470132768494:role/admin
+
+Config.Repositories:
+  dockerproductionawsmsitara41/microtrader-base: {}
+  dockerproductionawsmsitara41/microtrader-audit: {}
+  dockerproductionawsmsitara41/microtrader-dashboard: {}
+  dockerproductionawsmsitara41/microtrader-portfolio: {}
+  dockerproductionawsmsitara41/microtrader-quote: {}
+  dockerproductionawsmsitara41/squid: {}

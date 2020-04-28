@@ -1,0 +1,3 @@
+Stack.Name: ecr-resources
+
+Stack.Template: templates/ecr.yml.j2
